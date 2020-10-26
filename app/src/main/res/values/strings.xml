@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jogo da forca</string>
+    <string name="editQuantidadeTentativas">Quantidade de tentativas</string>
+    <string name="editPalavraJogo">Palavra</string>
+    <string name="btnJogar">Jogar!</string>
+    <string name="textTentativas">Tentativas restantes: </string>
+    <string name="textPalavrasTentadas">Palavras tentadas</string>
+    <string name="textLetrasTentadas">Letras tentadas</string>
+    <string name="vai">Vai!</string>
+    <string name="editTentarLetra"> Tentar letra</string>
+    <string name="editTentarPalavra"> Tentar palavra</string>
+</resources>
